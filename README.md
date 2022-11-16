@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HikiStark
+- 👀 I’m interested in Artificial Intelligence, Robotics and Web development
+- 🌱 I’m currently learning Full stack web development
+- 💞️ I’m looking to collaborate on GPT 4
+- 📫 How to reach me hikistark@gmail.com
